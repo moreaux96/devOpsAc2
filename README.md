@@ -7,3 +7,5 @@ criando readme
 git checkout -b 'readme'
 
 adicionando as imagens a minha branch e comitando novamente junto com as imagens antes de subir
+
+SUBINDO AS IMAGENS DE GIT PULL , GIT PUSH !! E FINALIZANDO TAREFA
